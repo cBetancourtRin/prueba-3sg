@@ -1,0 +1,1 @@
+### Archivos de tipado para información manejada dentro de la aplicación

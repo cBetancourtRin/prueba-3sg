@@ -1,0 +1,1 @@
+### Funciones de logica de negocio aplicados exclusivamente a la fase

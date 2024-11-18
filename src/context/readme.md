@@ -1,0 +1,1 @@
+## Estado general compartido en toda la app

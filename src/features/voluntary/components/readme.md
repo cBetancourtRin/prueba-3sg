@@ -1,0 +1,1 @@
+### Componentes exclusivos por fase 

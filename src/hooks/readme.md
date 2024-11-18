@@ -1,0 +1,1 @@
+## Funciones de lógica del negocio compartida en la aplicación

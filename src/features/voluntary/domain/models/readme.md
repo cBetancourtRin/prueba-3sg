@@ -1,0 +1,1 @@
+### Archivos de tipado para datos que se reciben de apis
